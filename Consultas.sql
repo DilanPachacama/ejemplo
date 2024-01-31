@@ -1,0 +1,1 @@
+INSERT INTO prestamos (pre_tiempo , pre_fecha_entrega_libro) VALUES ('15 ' , '2024-01-05' ) 
